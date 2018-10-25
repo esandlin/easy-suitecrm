@@ -1,11 +1,12 @@
-version: "3.7"
+version: "2.1"
+
 services:
   php:
     build: './php/'
     networks:
       - backend
     volumes:
-      - ./:/var/www/html/
+      - ./SuiteCRM/:/var/www/html/
   apache:
     build: './apache/'
     depends_on:
@@ -17,7 +18,7 @@ services:
     ports:
       - "8080:80"
     volumes:
-      - ./:/var/www/html/
+      - ./SuiteCRM/:/var/www/html/
   mysql:
     image: mysql:5.6
     ports:
@@ -31,8 +32,6 @@ services:
       - MYSQL_PASSWORD=pass
 networks:
   frontend:
-    ipv4_address: 172.18.0.1
 
   backend:
-    ipv4_address: 172.20.0.1
 
