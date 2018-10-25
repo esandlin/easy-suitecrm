@@ -1,0 +1,3 @@
+[submodule "SuiteCRM"]
+	path = SuiteCRM
+	url = git@github.com:salesagility/SuiteCRM.git
