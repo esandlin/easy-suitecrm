@@ -7,6 +7,7 @@ This project aims to make SuiteCRM an effortless CRM solution for NPOs.
 ### Prerequisites
 
 - Docker
+  - Must be running in order to execute `docker-compose` commands
   - [Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows)
   - [Mac](https://store.docker.com/editions/community/docker-ce-desktop-mac)
 - PHP 7
