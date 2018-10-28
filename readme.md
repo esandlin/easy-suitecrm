@@ -2,7 +2,17 @@
 
 This project aims to make SuiteCRM an effortless CRM solution for NPOs.
 
-# Local development
+## Local development
+
+### Prerequisites
+
+- Docker
+  - [Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows)
+  - [Mac](https://store.docker.com/editions/community/docker-ce-desktop-mac)
+- PHP 7
+  - Verify output of `php --version` is >= 7
+
+### Instructions
 
 - Clone this repo
 - Within the cloned directory run `git submodule init && git submodule update`
