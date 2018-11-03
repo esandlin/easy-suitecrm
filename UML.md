@@ -18,6 +18,6 @@ Design A few of the following UMLs: links added for better understanding.
 * Object Diagram
 * Component Diagram
 * Composite Structure Diagram
-* Deployment Diagram
+![Deployment Diagram](C:\Users\sandline\Desktop)
 * Package Diagram
 * Profile Diagram
