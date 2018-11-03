@@ -9,3 +9,15 @@ Design A few of the following UMLs:
 * State Machine Diagram
 * Communication Diagram
 * Sequence Diagram
+
+# The team needs a visual understand of the program's structure.
+
+Design A few of the following UMLs: links added for better understanding.
+
+* Class Diagram
+* Object Diagram
+* Component Diagram
+* Composite Structure Diagram
+* Deployment Diagram
+* Package Diagram
+* Profile Diagram
