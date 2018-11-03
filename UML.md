@@ -18,6 +18,6 @@ Design A few of the following UMLs: links added for better understanding.
 * Object Diagram
 * Component Diagram
 * Composite Structure Diagram
-![Deployment Diagram](C:\Users\sandline\Desktop)
+![Deployment Diagram](https://github.com/esandlin/easy-suitecrm/commit/3abfeb9d83828fac91d1a69709504efb72369f2a)
 * Package Diagram
 * Profile Diagram
