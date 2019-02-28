@@ -1,0 +1,15 @@
+{
+  "name": "Easy SuiteCRM",
+  "description": "A convenient means of deploying SuiteCRM",
+  "repository": "https://github.com/danielspofford/easy-suitecrm",
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-php"
+    }
+  ],
+  "addons": [
+    {
+      "plan": "cleardb:punch"
+    }
+  ]
+}
